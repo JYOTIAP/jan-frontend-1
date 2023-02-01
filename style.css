@@ -1,0 +1,24 @@
+*{
+    height: 40px;
+width: 75px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+padding: 8px 16px 8px 16px;
+
+}
+body{
+    background: rgba(255, 255, 255, 1e-06);
+
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+v ul  li a{
+    color:white;
+    font-size:17px;
+    text-transform:uppercase;
+    
+}
